@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nishkarshpal
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning data structures and MERN  
-- 💞️ I’m looking to collaborate on web developement
+- 📥 I’m looking to collaborate on web developement
 - 📫 How to reach me nishkarshpal26@gmail.com
 
 <!---

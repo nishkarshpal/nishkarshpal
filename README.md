@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishkarshpal&label=Profile%20views&color=0e75b6&style=flat" alt="nishkarshpal" /> </p>
 
-- 🌱 I’m currently learning **data structures and MERN**
+- 🌱 I’m currently learning **Data Structures and MERN**
 
-- 👯 I’m looking to collaborate on **web development projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 📫 How to reach me **nishkarshpal26@gmail.com**
 

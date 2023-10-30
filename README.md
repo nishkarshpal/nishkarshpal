@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishkarshpal&label=Profile%20views&color=0e75b6&style=flat" alt="nishkarshpal" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and MERN**
+- 🧑‍💻 I’m currently working as a **Salesforce Developer**
+  
+- 🌱 I’m learning **Data Structures and MERN**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
